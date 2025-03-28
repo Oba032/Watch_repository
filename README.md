@@ -26,6 +26,7 @@
 
 
 ## For this to work you additionally need access to a 3rd party app for the extraction of health data:
-       1.   In the app store of your Iphone, search for "Health Auto Export"
-       2.   Find the app called "Health Auto Export - JSON+CSV" developed by Lybron Sobers.
-       3.   
+       1.   In the app store of your Iphone, search for "Health Auto Export" or visit this link "https://apps.apple.com/us/app/health-auto-export-json-csv/id1115567069"
+       2.   Find the app called "Health Auto Export - JSON+CSV" developed by Lybron Sobers and download it.
+
+## To extract your data
