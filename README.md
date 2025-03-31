@@ -23,12 +23,12 @@
     
 
 # 2. Requirements:
-2.1 Hardware:
+## 2.1 Hardware:
       1. An Apple Watch (Preferably a newer model such as the ULTRA S2)
       2. An Iphone with an active Apple-user (For extraction of data)
     These products have to be calibrated, connected, and enabled.
     Over the course of a given time of your choosing these devices will gather the types of data you want to assess.
-2.2 Software:
+## 2.2 Software:
     1. Health Auto Export (3rd-party application which can be downloaded from the App Store - https://apps.apple.com/us/app/health-auto-export-jsoncsv/id1115567069)
     2. Python Version 3.12.7 
     3. Anaconda Navigator - Jupyter Notebook, Github, and Aconda Prompt.
@@ -42,4 +42,4 @@
 
 3.3 Press either "Quick Export" or "Export" at the bottom of the main screen.
 
-### 3.4 Share it or download the datafile to the computer containing the downloaded programs.
+### 3.4 Share it or download the datafile to the computer containing the downloaded programs and you are ready to go!
