@@ -23,23 +23,23 @@
     
 
 # 2. Requirements:
-## 2.1 Hardware:
+2.1 Hardware:
       1. An Apple Watch (Preferably a newer model such as the ULTRA S2)
       2. An Iphone with an active Apple-user (For extraction of data)
     These products have to be calibrated, connected, and enabled.
     Over the course of a given time of your choosing these devices will gather the types of data you want to assess.
-## 2.2 Software:
+2.2 Software:
     1. Health Auto Export (3rd-party application which can be downloaded from the App Store - https://apps.apple.com/us/app/health-auto-export-jsoncsv/id1115567069)
     2. Python Version 3.12.7 
     3. Anaconda Navigator - Jupyter Notebook, Github, and Aconda Prompt.
 
 # 3. How to extract your data from "Health Auto Export":
-## 3.1 Open the Application - Allow it to access your "Apple Health data".
+3.1 Open the Application - Allow it to access your "Apple Health data".
 
-## 3.2 Go to settings and change the Delimiter to "Semicolon", and change the unit to the one of your preference (I changed Active Energy from KJ to Kcal).
+3.2 Go to settings and change the Delimiter to "Semicolon", and change the unit to the one of your preference (I changed Active Energy from KJ to Kcal).
 
-## 3.4 Choose the wanted Date range in the "Date Range" submenu, and "Export Format" should be set to "CSV"
+3.4 Choose the wanted Date range in the "Date Range" submenu, and "Export Format" should be set to "CSV"
 
-## 3.3 Press either "Quick Export" or "Export" at the bottom of the main screen.
+3.3 Press either "Quick Export" or "Export" at the bottom of the main screen.
 
-## 3.4 Share it or download the datafile to the computer containing the downloaded programs.
+### 3.4 Share it or download the datafile to the computer containing the downloaded programs.
