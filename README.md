@@ -4,6 +4,7 @@ Therefore, projects like this are created to help people monitor their energy ex
 # 1.1 Introduction
     This is a repository for the exam in the course "HEL-8048-1 25V Advanced data analysis and visualization using programming"
     I intend to investigate what health parameters influence the amount of calories burnt throughout the day, as well as how sleep affects calorie expenditure.
+    My hypotheses are that energy expenditure will be positively and strongly correlated to step frequency.
 
 # 1.2 Variables
     # In this project i have chosen the following variables in my Apple watch:
@@ -22,7 +23,7 @@ Therefore, projects like this are created to help people monitor their energy ex
     - Sleep Analysis [Awake] (hr)
     - Step Count (steps)
     - Walking Heart Rate Average (bpm)
-    # If you are curious about anything else you could add any variable of your wish from "Apple Health".
+    # If you are curious about other variables  you could add any variable of your wish from "Apple Health".
     
 
 # 2. Requirements:
