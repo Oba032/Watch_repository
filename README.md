@@ -2,7 +2,7 @@
     This is a repository for the exam in the course "HEL-8048-1 25V Advanced data analysis and visualization using programming"
     I intend to investigate what health parameters influence the amount of calories burnt throughout the day, as well as how sleep affects calorie expenditure.
 
-## 1.2 Variables
+# 1.2 Variables
     # In this project i have chosen the following variables in my Apple watch:
     - Active Energy (kcal)
     - Apple Stand Hour (hours)
@@ -23,12 +23,12 @@
     
 
 # 2. Requirements:
-## 2.1 Hardware:
+ 2.1 Hardware:
       1. An Apple Watch (Preferably a newer model such as the ULTRA S2)
       2. An Iphone with an active Apple-user (For extraction of data)
     These products have to be calibrated, connected, and enabled.
     Over the course of a given time of your choosing these devices will gather the types of data you want to assess.
-## 2.2 Software:
+ 2.2 Software:
     1. Health Auto Export (3rd-party application which can be downloaded from the App Store - https://apps.apple.com/us/app/health-auto-export-jsoncsv/id1115567069)
     2. Python Version 3.12.7 
     3. Anaconda Navigator - Jupyter Notebook, Github, and Aconda Prompt.
