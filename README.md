@@ -1,3 +1,6 @@
+### Monitoring calorie expenditure is a hobby some people have and the total expenditure is usually the main focus. However, understanding how the body exerts energy throughout a day is important to understand where it is spent the most to achieve ones goals.
+Therefore, projects like this are created to help people monitor their energy exertion in a way that is tailored to them specifically.
+
 # 1.1 Introduction
     This is a repository for the exam in the course "HEL-8048-1 25V Advanced data analysis and visualization using programming"
     I intend to investigate what health parameters influence the amount of calories burnt throughout the day, as well as how sleep affects calorie expenditure.
