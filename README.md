@@ -32,6 +32,7 @@ Therefore, projects like this are created to help people monitor their energy ex
       2. An Iphone with an active Apple-user (For extraction of data)
     These products have to be calibrated, connected, and enabled.
     Over the course of a given time of your choosing these devices will gather the types of data you want to assess.
+    
  2.2 Software:
     1. Health Auto Export (3rd-party application which can be downloaded from the App Store - https://apps.apple.com/us/app/health-auto-export-jsoncsv/id1115567069)
     2. Python Version 3.12.7 
